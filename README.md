@@ -1,0 +1,2 @@
+# some_practice_work2
+收集了2025年实习的时候写的所有代码，主要面向react和Flask
